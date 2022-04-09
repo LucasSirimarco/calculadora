@@ -1,0 +1,31 @@
+*{  margin: 3px;
+    font-size: 18px;
+}
+body{
+    margin-top: 150px;
+}
+.calculadora{
+    margin: auto;
+    width: 35%;
+    height: 250px;
+    background-color: lightgrey;
+    border: solid 2px #000;
+    border-radius: 15px;
+    text-align: center;
+
+}
+p{
+    display: flex;
+    justify-content: right;
+}
+p input{
+    flex: 1 1 100%;
+}
+#textoPantalla{
+   
+    border-radius: 3px;
+    background-color: whitesmoke;
+    border: 1px solid #000;
+
+    
+}
